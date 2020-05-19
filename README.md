@@ -1,4 +1,4 @@
-# Recommendation System with Java
+# Recommendation system with Java
 
 * MovieRunnerSimilarRatings class
   * This class outputs recommendated movies.
